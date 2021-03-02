@@ -1,0 +1,15 @@
+ctb8.0
+├── data
+│   ├── bracketed 短语结构树
+│   ├── postagged 词性标注
+│   ├── raw 纯文本
+│   └── segmented 中文分词
+├── docs
+│   ├── README
+│   ├── ctb-parseguide.pdf
+│   ├── ctb-posguide.pdf
+│   ├── ctb-segguide.pdf
+│   ├── ctb7.0-parse-guide-addendum.pdf
+│   ├── ctb8.0-file-list.txt
+│   └── gold-standard-files.txt
+└── index.html
